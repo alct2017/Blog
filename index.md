@@ -2,5 +2,5 @@
 
 ## *The C++ Programming Language* by *Bjarne Stroustrup*
 
-    1. [Basic Facilities](TCPL/BasicFacilities.md)
-    2. ...
+1. [Basic Facilities](TCPL/BasicFacilities.md)
+2. ...
